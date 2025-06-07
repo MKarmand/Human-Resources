@@ -1,6 +1,8 @@
 
 # Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
 
+🔗 [Klik di sini untuk melihat dashboard Tableau](https://public.tableau.com/app/profile/muhammad.armand7202/viz/MKAHR/HRAnalyticsDashboard)
+
 ## Business Understanding
 
 Perusahaan Edutech mengalami tingkat pergantian karyawan (employee attrition) yang cukup tinggi. Hal ini menyebabkan terganggunya stabilitas tim dan meningkatnya biaya rekrutmen. Untuk mengatasi masalah tersebut, dilakukan analisis data SDM dan pembangunan model prediksi untuk mengidentifikasi karyawan yang berpotensi keluar.
@@ -51,7 +53,6 @@ Business dashboard dibuat menggunakan **Tableau Public** untuk memvisualisasikan
 - Distribusi karyawan berdasarkan departemen, usia, dan jabatan.
 - Perbandingan karakteristik antara karyawan yang keluar dan yang bertahan.
 
-🔗 [Klik di sini untuk melihat dashboard Tableau](https://public.tableau.com/app/profile/muhammad.armand7202/viz/MKAHR/HRAnalyticsDashboard)
 
 ## Conclusion
 
