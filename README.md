@@ -3,6 +3,7 @@
 
 🔗 [Klik di sini untuk melihat dataset](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 🔗 [Klik di sini untuk melihat dashboard Tableau](https://public.tableau.com/app/profile/muhammad.armand7202/viz/MKAHR/HRAnalyticsDashboard)
+🔗 [Klik di sini untuk melihat web streamlit](https://human-resources-mka.streamlit.app/)
 
 ## Business Understanding
 
