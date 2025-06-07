@@ -1,6 +1,7 @@
 
 # Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
 
+🔗 [Klik di sini untuk melihat dataset](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 🔗 [Klik di sini untuk melihat dashboard Tableau](https://public.tableau.com/app/profile/muhammad.armand7202/viz/MKAHR/HRAnalyticsDashboard)
 
 ## Business Understanding
@@ -27,7 +28,7 @@ Perusahaan Edutech mengalami tingkat pergantian karyawan (employee attrition) ya
 
 Dataset yang digunakan dalam proyek ini adalah dataset Human Resources Employee Attrition. Dataset ini berisi informasi mengenai karyawan, termasuk data demografis, riwayat pekerjaan, dan faktor-faktor lain yang relevan dengan attrition.
 
-Dataset ini dapat diakses di: [https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee]
+
 
 **Setup Environment:**
 
